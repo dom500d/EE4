@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "WRW",
+    "GHG"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:stone"
+    },
+    "G": {
+      "item": "minecraft:iron_ingot"
+    },
+    "H": {
+      "item": "minecraft:chest"
+    },
+    "R": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "modid:alchemical_chest",
+    "count": 1
+  }
+}
